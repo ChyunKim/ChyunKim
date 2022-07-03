@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there, Welcome to hyun's github 👋
+Thank you for visiting my github. I'm ChaeHyunKim. I graduated from computer science department.
+I hope to become a front-end developer. So, I study front-end development language.
+Detailed study information can be found below.
 
-<!--
-**ChyunKim/ChyunKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📕Here are some language I learned:
 
-Here are some ideas to get you started:
+- Html
+- css
+- javascript
+- css
+- java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟Life goals : 
+My life goal is to be the CEO.
+I don't have any concrete plans yet, but I want to be a person who helps certain people. As a CEO, I want a lot of people to live comfortably because of me.
+
+
+
+
+
