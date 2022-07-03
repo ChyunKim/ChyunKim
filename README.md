@@ -8,7 +8,7 @@ Detailed study information can be found below.
 - Html
 - css
 - javascript
-- css
+- c
 - java
 
 ## 🙋‍♀️Self introduction : 
