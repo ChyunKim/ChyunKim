@@ -3,7 +3,7 @@ Thank you for visiting my github. I'm ChaeHyunKim. I graduated from computer sci
 I hope to become a front-end developer. So, I study front-end development language.
 Detailed study information can be found below.
 
-### 📕Here are some language I learned:
+### 📕Here are some language I learned :
 
 - Html
 - css
