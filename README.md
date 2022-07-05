@@ -20,10 +20,10 @@ Detailed study information can be found below.
 - My MBTI is ISTP.
 - I'm a dog person.
 
+## 📚TIL(Today I learned..) : 
+
+- <https://github.com/ChyunKim/TIL> 
+
 ## 🌟Life goals : 
 I want a lot of people to live comfortably because of me.
 To do that, I am studying front-end language.
-
-
-
-
