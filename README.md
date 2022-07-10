@@ -8,17 +8,18 @@ Detailed study information can be found below.
 - Html
 - css
 - javascript
-- c
-- java
+- c, java
 
 ## 🙋‍♀️Self introduction : 
 
 - My name is ChaeHyunKim.
 - I was born in 1995.
 - I graduated from computer science department.
-- I worked as a merchandiser for 3 years.
 - My MBTI is ISTP.
-- I'm a dog person.
+
+## ✨ToyProject :
+
+- <https://github.com/ChyunKim/Toy-project>
 
 ## 📚TIL(Today I learned..) : 
 
