@@ -17,5 +17,4 @@ Detailed study information can be found below.<br>
 <br><br>
 
 ## 🌟Life goals : <br>
-I want a lot of people to live comfortably because of me.<br>
-To do that, I am studying front-end language.<br>
+I want a lot of people to live comfortably because of me.To do that, I am studying front-end language.<br>
